@@ -1,0 +1,76 @@
+2017-11-10 20:52;10 GET/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test05_GET_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html HTTP/1.1 404 Not Found
+2017-11-10 20:52;13 GET/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:52;15 GET/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1144
+
+2017-11-10 20:52;17 GET/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1097
+
+2017-11-10 20:52;20 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:52;22 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:52;24 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:52;27 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html HTTP/1.1 404 Not Found
+2017-11-10 20:52;29 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:52;31 SLURP/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/index.html HTTP/1.1 501 Not Implemented
+2017-11-10 20:58;13 GET/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test05_GET_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html HTTP/1.1 404 Not Found
+2017-11-10 20:58;15 GET/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:58;18 GET/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1144
+
+2017-11-10 20:58;20 GET/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1097
+
+2017-11-10 20:58;22 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:58;25 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:58;27 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:58;29 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/noFileWithThisName.html HTTP/1.1 404 Not Found
+2017-11-10 20:58;32 HEAD/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+2017-11-10 20:58;34 SLURP/cs/studres/2017_2018/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/index.html HTTP/1.1 501 Not Implemented

@@ -1,0 +1,9 @@
+# Basic Requirements
+All basic requirements have been implemented.
+
+# Enhancements
+1. This programme can return binary images(GIF,JPEG adn PNG)
+2. In log.tex, information includeing exact time, request type, file name and response are recorded.
+
+# Note 
+Each time when a response is given, you will be asked if want to stop continue requesting. If you want to stop that, please enter y. If you do not want to stop that, please enter n. Once, you enter n, objects of Socket and ServerSocket will close.
